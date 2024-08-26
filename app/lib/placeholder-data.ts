@@ -47,7 +47,10 @@ const customers = [
         image_url: "/customers/balazs-orban.png",
     },
     {
-        id: "ashdiu1hwijiajicjjas",
+        id: "13D07535-C59E-4157-A011-F8D2EF4E0CBG",
+        name: "Kolya",
+        email: "kolya@orban.com",
+        image_url: "/customers/balazs-orban.png",
     },
 ];
 
